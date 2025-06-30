@@ -195,4 +195,4 @@ Holger.Koemm@adidas-group.com
 [Profile](http://www.marquette.edu/fola/pustejovsky.shtml)  
 john.pustejovsky@marquette.edu
 
-![Signature](signature.jpg)
+<img src="signature.jpg" alt="Signature" width="200"/>
