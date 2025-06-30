@@ -27,12 +27,7 @@ Agentic systems, deep learning, microservice orchestration, time-series AI.
 
 ## Experience
 
-`07/2024 – Present`  
-**Head of AI**, Lang & Schwarz Gate, Remote, Germany
-
-- Building out AI capabilities to enable more effective trading strategies
-
-`10/2024 – 07/2025`
+`10/2024 – current`
 
 **Head of Backend and AI**, _CognitiveStream.AI_, Remote, Germany
 
