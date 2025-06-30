@@ -189,5 +189,3 @@ Holger.Koemm@adidas-group.com
 **Dr. John Pustejovsky**, Marquette University  
 [Profile](http://www.marquette.edu/fola/pustejovsky.shtml)  
 john.pustejovsky@marquette.edu
-
-<img src="signature.jpg" alt="Signature" width="200"/>
