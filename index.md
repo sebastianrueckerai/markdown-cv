@@ -15,27 +15,27 @@ Engineering Leader, AI Expert, Tech Visionary.
 
 ## Currently
 
-Building intelligent agents to revolutionize soft skill learning.
+Building AI systems for trading and large-scale language model applications.
 
 ### Specialized in
 
-AI platforms, agentic apps, team leadership, full-stack development.
+LLMs, RAG, AI gateways, enterprise AI infra, team leadership, full-stack engineering.
 
 ### Research interests
 
-Agentic systems, deep learning, microservice orchestration, time-series AI.
+LLM deployment at scale, AI Gateway Architecture
 
 ## Experience
 
-`10/2024 – current`
+`08/2025 – current`
 
-**Head of Backend and AI**, _CognitiveStream.AI_, Remote, Germany
+**Head of AI**, _Lang & Schwarz_, Remote, Düsseldorf
 
-- Build agentic video chat app using LLAMA3.3, Whisper, Firebase, Node, React, React Native
-- Enables interactive soft skills training with virtual coaches
+- Designing and deploying AI-driven trading signal systems to optimize market-making performance and profitability.
+- Architecting and leading the development of enterprise-grade AI infrastructure centered on a compliant AI Gateway—built meeting national and international banking regulations.
 
-`11/2022 – 10/2024`  
-**Head of Engineering**, _Compredict_, Remote, Germany
+`11/2022 – 07/2025`  
+**Head of Engineering**, _Compredict.AI_, Remote, Germany
 
 - Led AI platform development for virtual sensors using AWS, React, Python, FastAPI, TensorFlow, K8s, Istio
 - Delivered MVP on schedule; built and mentored a strong dev team
@@ -109,11 +109,11 @@ Agentic systems, deep learning, microservice orchestration, time-series AI.
 
 ### Leadership & Strategy
 
-Cross-functional team leadership, strategic planning, innovation
+Team building, mentoring, scaling engineering orgs, technical roadmaps
 
 ### Architecture & Methods
 
-Microservices, DDD, UCD, TDD
+Microservices, AI gateway design, RAG pipelines, vector search, DDD, TDD
 
 ### Project Management
 
@@ -125,23 +125,23 @@ Python, TypeScript, Go, C#, JavaScript
 
 ### AI & ML
 
-TensorFlow, Scikit-Learn, R, PySpark, Cython, Deep Learning
+LLMs (OpenAI, Anthropic, Hugging Face), LangChain, RAG, Vector DBs (Pinecone, Weaviate, FAISS), Transformers, Deep Learning
 
 ### Web
 
-React, Redux, Flask, Firebase
+React, Next.js, Flask, FastAPI
 
 ### Cloud & DevOps
 
-Docker, Kubernetes, AWS, GCP
+Docker, Kubernetes, AWS, GCP, CI/CD, observability
 
 ### Databases
 
-PostgreSQL, MongoDB
+PostgreSQL, MongoDB, Vector DBs
 
 ### Security & Compliance
 
-InfoSec, Data Privacy
+FinTech regulation, InfoSec, Data Privacy
 
 ### Emerging Tech
 
@@ -149,7 +149,7 @@ Blockchain, Edge Computing
 
 ### Soft Skills
 
-Mentorship, Communication, Decision-Making
+Mentorship, communication, decision-making
 
 ### Vendor Relations
 
@@ -174,18 +174,6 @@ Partner development, contracts, evaluation
 
 ## Personal Interests
 
-- Game Development: Unity, Godot, Blender, VR
+- Game Development: Unity, Godot, Blender
 - DApps: Ethereum, Solidity, React, Metamask
-- Algo Trading: AWS, Python, MySQL, R
-- Sports: Boxing, Jogging, Skiing, Dancing
-- Literature, Philosophy, Coffee
-
-## References
-
-**Holger Kömm**, Lead Data Scientist, adidas Group  
-[LinkedIn](https://www.linkedin.com/in/dr-holger-k%C3%B6mm-62304098/en)  
-Holger.Koemm@adidas-group.com
-
-**Dr. John Pustejovsky**, Marquette University  
-[Profile](http://www.marquette.edu/fola/pustejovsky.shtml)  
-john.pustejovsky@marquette.edu
+- Algo Trading
