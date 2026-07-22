@@ -269,22 +269,3 @@ strong {
   visibility: hidden;
 }
 
-@media print {
-  /* Stop dates (inline code) from hanging into the header area */
-  p code {
-    position: static !important;
-    left: auto !important;
-    display: inline;
-  }
-
-  /* Add a bit more breathing room under the main title */
-  h1 {
-    margin-bottom: 0.6em;
-  }
-
-  /* Optional: remove vertical offsets that can cause collisions */
-  h2,
-  h3 {
-    top: 0;
-  }
-}

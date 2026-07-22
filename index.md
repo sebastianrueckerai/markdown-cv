@@ -27,12 +27,11 @@ LLM deployment at scale, AI Gateway Architecture
 
 ## Experience
 
-`08/2025 – current`
-
-**Head of AI**, _Lang & Schwarz_, Remote, Düsseldorf
+`07/2025 – Present`  
+**Head of Artificial Intelligence**, _Lang & Schwarz_, Remote, Düsseldorf
 
 - Designing and deploying AI-driven trading signal systems to optimize market-making performance and profitability.
-- Architecting and leading the development of enterprise-grade AI infrastructure centered on a compliant AI Gateway—built meeting national and international banking regulations.
+- Architecting a banking-compliant AI Gateway that gives the company vendor-independent access to multiple AI model providers — the foundation for its own agent platform.
 
 `11/2022 – 07/2025`  
 **Head of Engineering**, _Compredict.AI_, Remote, Germany
