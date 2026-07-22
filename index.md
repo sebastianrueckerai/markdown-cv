@@ -30,13 +30,15 @@ LLM deployment at scale, AI Gateway Architecture
 `07/2025 – Present`  
 **Head of Artificial Intelligence**, _Lang & Schwarz_, Remote, Düsseldorf
 
-- Designing and deploying AI-driven trading signal systems to optimize market-making performance and profitability.
-- Architecting a banking-compliant AI Gateway that gives the company vendor-independent access to multiple AI model providers — the foundation for its own agent platform.
+- Built the AI function from zero at a DORA-regulated market maker: started solo, then hired and led a team of 3 spanning AI and DevOps
+- Modernized company IT with an on-prem multi-cluster platform (Harvester, CI/CD, fully IaC and immutable), hosting AI workloads and core services like Vault and Keycloak
+- Architected a banking-compliant AI Gateway (LiteLLM): vendor-independent, cost-optimized access to multiple model providers for all internal agents and workloads, plus a company-wide assistant (Open WebUI + self-hosted search)
+- Solo-developed an ML trading-signal backtest fusing high-frequency indicators with live Reddit discussion features (XGBoost, monthly rolling retraining) — lifting profitable one-day trades from a 39% naive baseline to 59%, net of spread and costs, stable across quarters
 
 `11/2022 – 07/2025`  
 **Head of Engineering**, _Compredict.AI_, Remote, Germany
 
-- Led AI platform development for virtual sensors using AWS, React, Python, FastAPI, TensorFlow, K8s, Istio
+- Led complete platform development for AI virtual sensors using AWS, React, Python, FastAPI, TensorFlow, K8s, Istio
 - Delivered MVP on schedule; built and mentored a strong dev team
 - Integrated DL models into ML Ops: CGNNs, WaveNets, Transformers
 
@@ -173,6 +175,5 @@ Partner development, contracts, evaluation
 
 ## Personal Interests
 
-- Game Development: Unity, Godot, Blender
-- DApps: Ethereum, Solidity, React, Metamask
+- Game Development: Godot, Blender
 - Algo Trading
