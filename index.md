@@ -5,12 +5,13 @@ title: Sebastian Rücker's CV
 
 # Sebastian Rücker
 
-Engineering Leader, AI Expert, Tech Visionary.
+Engineering Leader, AI Expert, Hands-On Builder.
 
 <div id="webaddress">
-<a href="mail@sebastianruecker.com">mail@sebastianruecker.com</a>
+<a href="mailto:mail@sebastianruecker.com">mail@sebastianruecker.com</a>
 | <a href="https://github.com/sebastianrueckerai">GitHub</a>
 | <a href="https://www.linkedin.com/in/sebastian-r%C3%BCcker-a8230aa5/">LinkedIn</a>
+| <a href="https://www.dropbox.com/scl/fo/m57pk4bf2k3ros9/h?rlkey=hcxi3hjllsalpotd4znxan4ah&dl=0">Certificates</a>
 </div>
 
 ## Currently
@@ -32,8 +33,8 @@ LLM deployment at scale, AI Gateway Architecture
 
 - Built the AI function from zero at a DORA-regulated market maker: started solo, then hired and led a team of 3 spanning AI and DevOps
 - Modernized company IT with an on-prem multi-cluster platform (Harvester, CI/CD, fully IaC and immutable), hosting AI workloads and core services like Vault and Keycloak
-- Architected a banking-compliant AI Gateway (LiteLLM): vendor-independent, cost-optimized access to multiple model providers for all internal agents and workloads, plus a company-wide assistant (Open WebUI + self-hosted search)
-- Solo-developed an ML trading-signal backtest fusing high-frequency indicators with live Reddit discussion features (XGBoost, monthly rolling retraining) — lifting profitable one-day trades from a 39% naive baseline to 59%, net of spread and costs, stable across quarters
+- Architected a banking-compliant AI Gateway (LiteLLM) for vendor-independent, cost-optimized access to multiple model providers — then built the layer on top: internal agents on n8n (e.g. an interactive EU AI Act training agent) and a company-wide assistant with self-hosted search (Open WebUI)
+- Solo-developed a time-series model predicting price shocks from combined price, volume, and LLM-extracted social-media sentiment — 59% out-of-sample hit rate vs. a 39% naive baseline (+20pp), on real trading data net of spread and transaction costs
 
 `11/2022 – 07/2025`  
 **Head of Engineering**, _Compredict.AI_, Remote, Germany

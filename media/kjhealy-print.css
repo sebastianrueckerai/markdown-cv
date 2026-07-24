@@ -246,12 +246,13 @@ a:hover {
   margin-top: 1em;
   position: relative;
   left: 28%;
-  color: #ccc;
+  color: #666;
   font-family: Menlo, monospace, sans-serif;
   font-size: 80%;
 }
 
 #webaddress a {
+  color: #a00;
   text-decoration: none;
 }
 

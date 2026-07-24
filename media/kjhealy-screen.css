@@ -164,12 +164,13 @@ a:hover {
 	margin-top: 1em;
 	position: relative;
 	left: 33%;
-	color: #aaa;
+	color: #666;
 	font-family: Menlo,monospace,sans-serif;
-	font-size: 80%;
+	font-size: 85%;
 }
 
 #webaddress a {
+	color: #a00;
 	text-decoration: none;
 }
 
